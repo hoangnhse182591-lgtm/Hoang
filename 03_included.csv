@@ -2,3 +2,5 @@ REC_02,"EvoSuite: Automatic Test Suite Generation for Java Class Libraries","Gor
 REC_03,"Feedback-Directed Random Automated Test Generation (Randoop)","Carlos Pacheco, Michael D. Ernst",2007,https://doi.org/10.1145/1297846.1297847,ACM_DL,STAGE_2_FULLTEXT,INCLUDE,NONE
 REC_04,"PIT: A Practical Mutation Testing Tool for Java","Henry Coles et al.",2016,https://doi.org/10.1145/2915970.2916008,Google_Scholar,STAGE_2_FULLTEXT,INCLUDE,NONE
 REC_05,"An Industrial Evaluation of Unit Test Generation: Finding Real Faults vs Coverage","M. M. Almasi et al.",2017,https://doi.org/10.1109/ICST.2017.33,IEEE_Xplore,STAGE_2_FULLTEXT,INCLUDE,NONE
+REC_07,"A Large-Scale Empirical Study on Mutation Testing Operators for Java","Annibale Panichella et al.",2018,https://doi.org/10.1109/TSE.2018.2882143,IEEE_Xplore,STAGE_2_FULLTEXT,INCLUDE,NONE
+REC_08,"Assessing Automated Unit Test Generation Tools on Open-Source Java Projects","D. Di Nucci et al.",2020,https://doi.org/10.1016/j.jss.2020.110602,ScienceDirect,STAGE_2_FULLTEXT,INCLUDE,NONE
