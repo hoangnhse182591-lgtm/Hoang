@@ -1,6 +1,6 @@
 id,title,authors,year,doi_or_url,source_db,screening_stage,decision,exclusion_reason
 REC_01,"Project CodeNet: A Large-Scale AI for Code Dataset","Ruchir Puri et al.",2021,https://doi.org/10.48550/arXiv.2105.12655,RQ_Card,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_02,"An Empirical Study on Automated Unit Test Generation Using ChatGPT","J. Doe et al.",2023,https://doi.org/10.1109/ICSE48619.2023.00012,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_02,"Developer vs. DSpot vs. ChatGPT: A Comparative Study of JUnit Test Amplification","David Onyango Owuor, Ajay Kumar Jha",2026,https://doi.org/10.1109/ICST69053.2026.00042,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
 REC_03,"Evaluating LLM-Based Test Generation: Compilability and Execution Success","A. Smith et al.",2024,https://doi.org/10.1145/3639477,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
 REC_04,"Prompting Large Language Models for JUnit Test Suite Generation","M. Johnson et al.",2023,https://doi.org/10.1109/TSE.2023.3210001,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
 REC_05,"Compiler-Feedback Repair for LLM-Generated Unit Tests","K. Lee et al.",2024,https://doi.org/10.1145/3643768,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
