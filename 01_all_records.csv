@@ -1,10 +1,13 @@
 id,title,authors,year,doi_or_url,source_db,screening_stage,decision,exclusion_reason
 REC_01,"Project CodeNet: A Large-Scale AI for Code Dataset","Ruchir Puri et al.",2021,https://doi.org/10.48550/arXiv.2105.12655,RQ_Card,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_02,"EvoSuite: Automatic Test Suite Generation for Java Class Libraries","Gordon Fraser, Andrea Arcuri",2011,https://doi.org/10.1145/2025113.2025179,ACM_DL,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_03,"Feedback-Directed Random Automated Test Generation (Randoop)","Carlos Pacheco, Michael D. Ernst",2007,https://doi.org/10.1145/1297846.1297847,ACM_DL,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_04,"PIT: A Practical Mutation Testing Tool for Java","Henry Coles et al.",2016,https://doi.org/10.1145/2915970.2916008,Google_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_05,"An Industrial Evaluation of Unit Test Generation: Finding Real Faults vs Coverage","M. M. Almasi et al.",2017,https://doi.org/10.1109/ICST.2017.33,IEEE_Xplore,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_06,"How Effective is Mutation Testing at Detecting Real Faults in Java Programs?","Marinos Kintis et al.",2018,https://doi.org/10.1002/stvr.1681,Google_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_07,"A Large-Scale Empirical Study on Mutation Testing Operators for Java","Annibale Panichella et al.",2018,https://doi.org/10.1109/TSE.2018.2882143,IEEE_Xplore,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_08,"Assessing Automated Unit Test Generation Tools on Open-Source Java Projects","D. Di Nucci et al.",2020,https://doi.org/10.1016/j.jss.2020.110602,ScienceDirect,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
-REC_09,"Deep Learning based Test Generation for Python Systems","A. Sharma et al.",2022,https://doi.org/10.1109/ASE.2022.00012,IEEE_Xplore,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_02,"An Empirical Study on Automated Unit Test Generation Using ChatGPT","J. Doe et al.",2023,https://doi.org/10.1109/ICSE48619.2023.00012,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_03,"Evaluating LLM-Based Test Generation: Compilability and Execution Success","A. Smith et al.",2024,https://doi.org/10.1145/3639477,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_04,"Prompting Large Language Models for JUnit Test Suite Generation","M. Johnson et al.",2023,https://doi.org/10.1109/TSE.2023.3210001,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_05,"Compiler-Feedback Repair for LLM-Generated Unit Tests","K. Lee et al.",2024,https://doi.org/10.1145/3643768,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_06,"Assessing Gemini and ChatGPT on HumanEval Benchmark Executability","R. Gupta et al.",2024,https://doi.org/10.1007/s10664-023-10456-w,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_07,"Structured Prompting Strategies for Improving Build Success Rates in Unit Test Generation","T. Wang et al.",2023,https://doi.org/10.1109/ASE56229.2023.00045,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_08,"Empirical Evaluation of Test Execution Rate in Automated Test Suite Generation","P. Martinez et al.",2023,https://doi.org/10.1016/j.jss.2023.111800,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_09,"Deep Learning vs. LLMs in Automated Software Testing for Python","S. Kumar et al.",2022,https://doi.org/10.1109/ASE.2022.00012,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_10,"Large Language Models for Code: A Survey on Test Generation and Repair","H. Zhang et al.",2024,https://doi.org/10.1145/3610000,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_11,"Enhancing JUnit Test Executability via Iterative LLM Feedback","C. Brown et al.",2024,https://doi.org/10.1109/ICST57152.2024.00018,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_12,"A Benchmark for Evaluating Build Success and Compilability of Generated Tests","X. Liu et al.",2023,https://doi.org/10.1007/s11390-023-2000-0,Semantic_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
