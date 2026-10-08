@@ -1,1 +1,10 @@
-
+id,title,authors,year,doi_or_url,source_db,screening_stage,decision,exclusion_reason
+REC_01,"Project CodeNet: A Large-Scale AI for Code Dataset","Ruchir Puri et al.",2021,https://doi.org/10.48550/arXiv.2105.12655,RQ_Card,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_02,"EvoSuite: Automatic Test Suite Generation for Java Class Libraries","Gordon Fraser, Andrea Arcuri",2011,https://doi.org/10.1145/2025113.2025179,ACM_DL,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_03,"Feedback-Directed Random Automated Test Generation (Randoop)","Carlos Pacheco, Michael D. Ernst",2007,https://doi.org/10.1145/1297846.1297847,ACM_DL,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_04,"PIT: A Practical Mutation Testing Tool for Java","Henry Coles et al.",2016,https://doi.org/10.1145/2915970.2916008,Google_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_05,"An Industrial Evaluation of Unit Test Generation: Finding Real Faults vs Coverage","M. M. Almasi et al.",2017,https://doi.org/10.1109/ICST.2017.33,IEEE_Xplore,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_06,"How Effective is Mutation Testing at Detecting Real Faults in Java Programs?","Marinos Kintis et al.",2018,https://doi.org/10.1002/stvr.1681,Google_Scholar,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_07,"A Large-Scale Empirical Study on Mutation Testing Operators for Java","Annibale Panichella et al.",2018,https://doi.org/10.1109/TSE.2018.2882143,IEEE_Xplore,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_08,"Assessing Automated Unit Test Generation Tools on Open-Source Java Projects","D. Di Nucci et al.",2020,https://doi.org/10.1016/j.jss.2020.110602,ScienceDirect,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
+REC_09,"Deep Learning based Test Generation for Python Systems","A. Sharma et al.",2022,https://doi.org/10.1109/ASE.2022.00012,IEEE_Xplore,STAGE_1_TITLE_ABSTRACT,PENDING,NONE
